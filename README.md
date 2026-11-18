@@ -35,7 +35,12 @@ The exercises were completed in a controlled learning environment for educationa
 
 ### Evidence – Module 1
 
-Add your screenshots in [`evidence/module-1-john-the-ripper/`](evidence/module-1-john-the-ripper/).
+
+<img width="950" height="414" alt="Step 1" src="https://github.com/user-attachments/assets/02351d53-c240-4a71-9bc5-d9de8fb1b963" />
+<img width="959" height="539" alt="Step 2" src="https://github.com/user-attachments/assets/68040692-82e6-439a-89f5-c12b8b917b7b" />
+<img width="959" height="539" alt="Step 3" src="https://github.com/user-attachments/assets/96e6ac80-bf4a-4ac5-a366-c848c179de70" />
+<img width="959" height="539" alt="Step 4" src="https://github.com/user-attachments/assets/3dd5c5f1-7067-4eb6-a6e6-14b6fdcf425b" />
+<img width="959" height="539" alt="Step 5" src="https://github.com/user-attachments/assets/fa75eb41-986d-4340-8ac0-ccbf38b78ca5" />
 
 Suggested evidence:
 - [ ] Hash extraction result
@@ -65,7 +70,13 @@ Suggested evidence:
 
 ### Evidence – Module 2
 
-Add your screenshots in [`evidence/module-2-networkwalks-tools/`](evidence/module-2-networkwalks-tools/).
+<img width="937" height="413" alt="Step 1" src="https://github.com/user-attachments/assets/474bfd46-308b-480e-b6f9-fa98d72f1db4" />
+
+https://github.com/user-attachments/assets/8cada376-a3e3-4021-b66b-a339e23ffa8b
+
+<img width="950" height="421" alt="Step 3" src="https://github.com/user-attachments/assets/57b3a062-7b52-4ed7-9511-17b98dbe472e" />
+
+
 
 Suggested evidence:
 - [ ] Hash Calculator result
